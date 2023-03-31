@@ -1,0 +1,17 @@
+{
+  "name": "bfro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^7.8.3",
+    "d3-geo-projection": "^4.0.0",
+    "puppeteer": "^19.8.2"
+  }
+}
